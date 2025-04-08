@@ -13,12 +13,12 @@
 ## 1. Instalar plugins
 
 > > ### ⚙️ Extensión para Java
-> Código: `vscjava.vscode-java-pack`
+> Identifier: `vscjava.vscode-java-pack`
 > 
 > <img src="resources/extension-pack-for-java.jpg" width="1000" height="330">
 
 > ### ⚙️ Extensión para Spring Boot
-> Código: `vmware.vscode-boot-dev-pack`
+> Identifier: `vmware.vscode-boot-dev-pack`
 > 
 > <img src="resources/spring-boot-extension-pack.jpg" width="1000" height="280">
 
