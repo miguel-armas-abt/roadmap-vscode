@@ -1,4 +1,4 @@
-# APRENDIENDO VISUAL STUDIO CODE
+# ROADMAP VISUAL STUDIO CODE
 
 - [00. Estilo Jetbrains](path/00-jetbrains-style/README.md)
 - [01. Configuración para Java](path/01-setup-for-java/README.md)
