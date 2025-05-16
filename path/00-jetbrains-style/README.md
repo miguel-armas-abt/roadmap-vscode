@@ -67,3 +67,6 @@
 - Buscar `editor.action.organizeImports` y personalizar `Shift + Alt + O`.
 
 ![img.png](resources/keyboard-shortcuts.png)
+
+## 4. Build Project
+Abrir la paleta de **Build Tasks** `ctrl + (Fn + F9)` y seleccionar el build que corresponda para compilar todas las carpetas y capturar errores de sintaxis o dependencias.
