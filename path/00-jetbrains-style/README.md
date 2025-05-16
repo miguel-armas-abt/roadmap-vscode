@@ -43,6 +43,12 @@
 > 
 > 📌 **Nota**: El plugin descargará las fuentes en `C:\Users\<user>\.vscode\extensions\narasimapandiyan.jetbrainsmono-1.0.2\JetBrainsMono`. A continuación, instalarlas en `Windows/Fonts`.
 
+> > ### ⚙️ Error Lens
+> - Identifier: `usernamehw.errorlens`
+> - Plugin para resaltar la línea que contiene errores y especificar su motivo.
+>
+> ![img.png](resources/error-lens.png)
+
 ## 2. Settings.json
 ```json
 {

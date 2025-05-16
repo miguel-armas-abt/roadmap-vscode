@@ -4,3 +4,7 @@
 
 ---
 
+> ### ⚙️ Extensión para Go
+> Identifier: `golang.go`
+> 
+> ![img.png](resources/golang.go.png)
