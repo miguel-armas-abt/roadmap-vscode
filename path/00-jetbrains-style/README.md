@@ -21,19 +21,18 @@
 > - Identifier: `pkief.material-icon-theme` <br>
 > - Plugin para íconos
 > 
-> ![img.png](resources/material-icon-theme.png)
->
-> ![img.png](resources/select-material-icon.png)
+> ![img.png](resources/jetbrains-icon-theme.png)
 > 
-> 📌 **Nota**: En caso no se haya establecido por defecto, entonces abra la paleta de comandos `ctrl+shift+p` y selecciona `Material Icons: Activate Icons`.
+> 📌 **Nota**: En caso no se haya establecido por defecto, entonces abra la paleta de comandos `ctrl+shift+p`, selecciona `Preferences: File Icon Theme` y a continuación `JetBrains Icon Theme v1 Dark`.
+> 
+> ![img.png](img.png)
 
-> > ### ⚙️ One Dark Pro
-> - Identifier: `zhuangtongfa.material-theme`
+> > ### ⚙️ JetBrains Darcula Theme
+> - Identifier: `anan.jetbrains-darcula-theme`
 > - Plugin para tema oscuro
 > 
-> ![img_1.png](resources/one-dark-pro.png)
-> 
-> 📌 **Nota**: En caso no se haya establecido por defecto, entonces abra la paleta de comandos `ctrl+shift+p`, selecciona `Color Theme` y a continuación, `One Dark Pro`.
+> ![img.png](resources/jetbrains-darcula-theme.png)
+> 📌 **Nota**: En caso no se haya establecido por defecto, entonces abra la paleta de comandos `ctrl+shift+p`, selecciona `Color Theme` y a continuación, `JetBrains Darcula Theme`.
 
 > > ### ⚙️ JetBrains Mono
 > - Identifier: `narasimapandiyan.jetbrainsmono`
