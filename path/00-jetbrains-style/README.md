@@ -58,3 +58,12 @@
   "editor.fontLigatures": true // change this kind of symbols "->" 
 }
 ```
+
+## 3. Organizar los imports
+- Abrir la paleta de comandos `ctrl+shift+p`, selecciona `Preferences: Open Keyboard Shortcuts`.
+
+![img.png](resources/open-keyboard-shortcuts.png)
+
+- Buscar `editor.action.organizeImports` y personalizar `Shift + Alt + O`.
+
+![img.png](resources/keyboard-shortcuts.png)
