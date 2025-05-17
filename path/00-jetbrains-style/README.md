@@ -52,7 +52,7 @@
 ```json
 {
   "keyboard.dispatch": "keyCode", //shortcuts
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "JetBrains Darcula Theme",
   "files.autoSave": "onFocusChange", // autosave
   "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true // change this kind of symbols "->" 
