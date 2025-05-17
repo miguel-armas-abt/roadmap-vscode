@@ -18,7 +18,7 @@
 > ![img.png](resources/jetbrains-ide-keymap.png)
 
 > > ### ⚙️ JetBrains Icon Theme
-> - Identifier: `pkief.material-icon-theme` <br>
+> - Identifier: `chadalen.vscode-jetbrains-icon-theme` <br>
 > - Plugin para íconos
 > 
 > ![img.png](resources/jetbrains-icon-theme.png)
