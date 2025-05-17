@@ -17,7 +17,7 @@
 >
 > ![img.png](resources/jetbrains-ide-keymap.png)
 
-> > ### ⚙️ Material Icon Theme
+> > ### ⚙️ JetBrains Icon Theme
 > - Identifier: `pkief.material-icon-theme` <br>
 > - Plugin para íconos
 > 
