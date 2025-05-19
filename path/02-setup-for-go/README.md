@@ -71,3 +71,23 @@
 > 	]
 > }
 > ```
+
+> ### ⚙️ launch.json
+> ```json
+> {
+>     "version": "0.2.0",
+>     "configurations": [
+>         {
+>             "name": "Launch",
+>             "type": "go",
+>             "request": "launch",
+>             "mode": "auto",
+>             "program": "${fileDirname}",
+>             "showLog": true,
+>             "trace": "verbose",
+>             "env": {},
+>             "args": [],
+>         }
+>     ]
+> }
+> ```
