@@ -1,0 +1,8 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "JetBrains Darcula Theme",
+  "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true, // change this kind of symbols "->"
+  "keyboard.dispatch": "keyCode", //shortcuts
+  "files.autoSave": "onFocusChange" // autosave
+}

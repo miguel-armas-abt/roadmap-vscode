@@ -1,5 +1,5 @@
 # ROADMAP VISUAL STUDIO CODE
 
-- [00. Estilo Jetbrains](path/00-jetbrains-style/README.md)
-- [01. Configuración para Java](path/01-setup-for-java/README.md)
-- [02. Configuración para GO](path/02-setup-for-go/README.md)
+- [01. Configuración general](path/01-general-config/README.md)
+- [02. Shortcuts](path/02-shortcuts/README.md)
+- [03. Configuración para GO](path/03-setup-for-go/README.md)

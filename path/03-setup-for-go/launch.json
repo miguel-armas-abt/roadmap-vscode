@@ -7,8 +7,12 @@
             "request": "launch",
             "mode": "auto",
             "program": "${workspaceFolder}",
-            "env": {},
-            "args": [],
+            "env": {
+                "DB_USER": "fake-user",
+                "DB_PASSWORD": "fake-password",
+                "SERVER_PORT": "8080"
+            },
+            "args": []
         }
     ]
 }
